@@ -7,11 +7,11 @@ Our webpage will be a great tool to other users allowing them to quickly find da
 
 For instance, a user may be looking to identify all UFO sightings in California that had a 'light' shape to see if there is any pattern in where these sightings are occuring. By narrowing the full data set to a mangeable data set a user can look at - there are more insightful things the user can look into. As seen in the example below, there are several comments surrounding the UFO sightings on January 1st that mention "three red lights".
 
-![California & Light UFO Filters](static/images/fiters_1.png 'California & Light UFO Filters')
+![California & Light UFO Filters](/Resources/fiters_1.png 'California & Light UFO Filters')
 
 With this interesting bit of information, the user can adjust the filters to remove the "shape" filter and enter the date of "1/1/2010" to see if there were other reported sightings with these same comments. In review of the example below, we can see there were many other sightings with other reported shapes that saw the "three red lights".
 
-![California & New Years UFO Filters](static/images/fiters_2.png 'California & New Years UFO Filters')
+![California & New Years UFO Filters](/Resources/fiters_2.png 'California & New Years UFO Filters')
 
 
 With this information the user can dive deeper into their investigation to determine if this reported data leads to a false sighting or not.
